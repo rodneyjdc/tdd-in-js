@@ -34,6 +34,8 @@ function multiple (input) {
     return input;
 }
 
+function exponential (input) {}
+
 
 
 function operation(input, operator) {

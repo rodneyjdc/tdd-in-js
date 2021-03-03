@@ -119,7 +119,7 @@ test('pass in empty array to divide to equal undefined', () => {
 
 // multiple
 
-test('multiple 1 * 1 to equal 1', () => {
+test('multiply 1 * 1 to equal 1', () => {
     expect(base.multiple([1, 1])).toBe(1);
 })
 
